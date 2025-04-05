@@ -41,7 +41,7 @@ const Dashboard = () => {
     { month: 'Sep', value: 1072500 },
     { month: 'Oct', value: 1113750 },
     { month: 'Nov', value: 1155000 },
-    { month: 'Dec', value: 1212750 },
+    { month: 'Dec', value: 1212750 },  //fuck you bithces you niggerrrrrr
   ];
 
   // Sector performance data
